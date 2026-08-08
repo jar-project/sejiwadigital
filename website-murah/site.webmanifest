@@ -1,0 +1,14 @@
+{
+  "name": "Sejiwa Digital — Jasa Buat Website Murah 649rb",
+  "short_name": "Sejiwa Digital",
+  "description": "Jasa pembuatan website murah 649rb terima beres. Domain .com, hosting 1 tahun, desain custom, selesai 1-2 hari kerja.",
+  "start_url": "/website-murah/",
+  "scope": "/website-murah/",
+  "display": "standalone",
+  "background_color": "#F7F9FD",
+  "theme_color": "#00268E",
+  "icons": [
+    { "src": "/website-murah/android-chrome-192x192.png", "sizes": "192x192", "type": "image/png" },
+    { "src": "/website-murah/android-chrome-512x512.png", "sizes": "512x512", "type": "image/png" }
+  ]
+}
