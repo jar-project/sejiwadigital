@@ -1,6 +1,6 @@
 export const SITE = {
   name: "Sejiwa Digital",
-  url: (process.env.NEXT_PUBLIC_SITE_URL || "https://sejiwadigital.com").replace(/\/$/, ""),
+  url: (process.env.NEXT_PUBLIC_SITE_URL || "https://www.sejiwadigital.com").replace(/\/$/, ""),
   email: "kontak@sejiwadigital.com",
   whatsapp: "6285138747131",
   whatsappDisplay: "+62 851-3874-7131",
